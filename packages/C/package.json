@@ -4,6 +4,7 @@
   "description": "> TODO: description",
   "author": "erraX <niminjiecide@outlook.com>",
   "homepage": "",
+  "private": true,
   "license": "ISC",
   "main": "lib/C.js",
   "directories": {
