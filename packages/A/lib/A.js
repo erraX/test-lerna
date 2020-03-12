@@ -7,5 +7,7 @@ function a() {
 }
 
 function a2() {
-    console.log('aa');
+    console.log('a');
+    console.log('a');
+    console.log('a');
 }
