@@ -10,4 +10,7 @@ function a2() {
     console.log('a');
     console.log('a');
     console.log('a');
+    console.log('a');
+    console.log('a');
+    console.log('a');
 }
