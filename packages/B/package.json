@@ -1,6 +1,6 @@
 {
   "name": "lerna-p-b",
-  "version": "0.0.2-alpha.1+c80080d",
+  "version": "0.0.2-alpha.2+47937d4",
   "description": "> TODO: description",
   "author": "erraX <niminjiecide@outlook.com>",
   "homepage": "",
@@ -13,9 +13,6 @@
   "files": [
     "lib"
   ],
-  "publishConfig": {
-    "registry": "http://r.tnpm.oa.com/"
-  },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
@@ -23,5 +20,5 @@
     "a": "^0.0.2-alpha.1+c80080d",
     "react": "^16.12.0"
   },
-  "gitHead": "c80080d6b54a1f941b32a742bcc85c14882e2fb8"
+  "gitHead": "47937d4315bde0c248b36dff08ed85f9477abf24"
 }
