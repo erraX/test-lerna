@@ -1,6 +1,7 @@
 {
   "name": "root",
   "private": true,
+  "author": "erraX",
   "devDependencies": {
     "lerna": "^3.20.2"
   },
